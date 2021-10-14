@@ -1,0 +1,23 @@
+.product{
+    background-color: chartreuse;
+}
+Card{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: inset;
+}.cardimg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    transition: all 0.2s linear;
+  }
+.cardimg:hover {
+    transform: scale(1.1);
+  }

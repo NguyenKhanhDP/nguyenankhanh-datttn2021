@@ -1,0 +1,10 @@
+.product{
+    background-color: chartreuse;
+}
+Card{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: inset;
+}
+.cardimg:hover {
+    transform: scale(1.1);
+  }

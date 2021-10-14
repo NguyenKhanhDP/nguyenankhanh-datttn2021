@@ -1,0 +1,11 @@
+.homecart{
+    display: flex;
+}
+
+.productContainer{
+    display: flex;
+    width: 78%;
+    padding: 20px;
+    flex-wrap: wrap;
+    jus
+}
