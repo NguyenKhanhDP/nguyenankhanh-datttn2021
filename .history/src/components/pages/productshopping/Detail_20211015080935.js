@@ -47,7 +47,7 @@ export const Detail = () => {
 
                                 Dưới đây là tổng hợp những lỗi mà người đi mô tô, xe máy thường gặp phải và mức xử phạt vi phạm theo Nghị định 46/2016/NĐ-CP của Chính phủ ban hành ngày 26/05/2016:
 
-                                <p>1. Chở người trên xe sử dụng ô : Phạt tiền từ 60.000 - 80.000 đồng.</p>
+                                <p>1. Chở người trên xe sử dụng ô (dù): Phạt tiền từ 60.000 - 80.000 đồng (điểm h, khoản 1 Điều 6).</p>
 
                                 <p>2. Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên: Phạt tiền từ 80.000 - 100.000 đồng (điểm b khoản 2 Điều 6).</p>
 

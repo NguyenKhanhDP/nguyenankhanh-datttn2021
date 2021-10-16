@@ -47,7 +47,7 @@ export const Detail = () => {
 
                                 Dưới đây là tổng hợp những lỗi mà người đi mô tô, xe máy thường gặp phải và mức xử phạt vi phạm theo Nghị định 46/2016/NĐ-CP của Chính phủ ban hành ngày 26/05/2016:
 
-                                <p>1. Chở người trên xe sử dụng ô : Phạt tiền từ 60.000 - 80.000 đồng.</p>
+                                <p>1. Chở người trên xe sử dụng ô (dù): Phạt tiền từ 60.000 - 80.000 đồng (điểm h, khoản 1 Điều 6).</p>
 
                                 <p>2. Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên: Phạt tiền từ 80.000 - 100.000 đồng (điểm b khoản 2 Điều 6).</p>
 
@@ -82,10 +82,7 @@ export const Detail = () => {
                         <Col xs={12} md={8}>
                             <h4>Honda Việt Nam</h4>
                             <p>Được thành lập vào năm 1996, công ty Honda Việt Nam là liên doanh giữa Công ty Honda Motor (Nhật Bản), Công ty Asian Honda Motor (Thái Lan) và Tổng Công ty Máy Động Lực và Máy Nông nghiệp Việt Nam với 2 ngành sản phẩm chính: xe máy và xe ô tô. 25 năm có mặt tại Việt Nam, Honda Việt Nam đã không ngừng phát triển và trở thành một trong những công ty dẫn đầu trong lĩnh vực sản xuất xe gắn máy và nhà sản xuất ô tô uy tín tại thị trường Việt Nam.</p>
-                            <p>Honda Việt Nam tự hào mang đến cho khách hàng những sản phẩm chất lượng cao, dịch vụ tận tâm và những đóng góp vì một xã hội giao thông lành mạnh. Với khẩu hiệu “Sức mạnh của những Ước mơ”, Honda mong muốn được chia sẻ và cùng mọi người thực hiện ước mơ thông qua việc tạo thêm ra nhiều niềm vui mới cho người dân và xã hội.</p>
-                            <h5>Honda Xe Máy</h5>
-                            <p>Hiểu rõ xe máy là phương tiện đi lại quan trọng và chủ yếu tại Việt Nam, Honda Việt Nam luôn nỗ lực hết mình cung cấp cho khách hàng những sản phẩm xe máy có chất lượng cao nhất với giá cả hợp lý được sản xuất từ những nhà máy thân thiện với môi trường.</p>
-                            <p>Kể từ khi Honda bước chân vào thị trường Việt Nam, công ty đã liên tục đầu tư xây dựng cơ sở hạ tầng sản xuất nhằm đáp ứng nhu cầu ngày càng tăng cao của thị trường – nơi xe máy là phương tiện chiếm gần 90% tại các thành phố lớn. Tính đến nay, Honda Việt Nam có 6 nhà máy sản xuất và lắp ráp xe máy và phụ tùng xe máy.</p>
+                            <p></p>
                         </Col>
                     </Row>
                     <Row>
